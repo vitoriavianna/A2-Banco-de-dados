@@ -1,4 +1,4 @@
-# A2-Banco-de-dados
+# A2 Banco de Dados
 Repositório para segunda avaliação da disciplina de Banco de Dados da FGV-EMAp.
 
 ## Tarefa da A2
